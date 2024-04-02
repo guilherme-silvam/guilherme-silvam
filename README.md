@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Bem-vindo(a) ao perfil do Guilherme Silva Machado 😁
 
  <div>
