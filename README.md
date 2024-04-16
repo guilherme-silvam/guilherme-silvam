@@ -1,5 +1,5 @@
-
-## Bem-vindo ao perfil do Guilherme Silva Machado 😁
+.
+## Bem-vindo ao perfil do Guilherme Silva Machado 😁🪓
 
  <div>
    <a href="https://github.com/guilherme-silvam">
