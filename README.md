@@ -1,5 +1,5 @@
 
-## Bem-vindo ao perfil do Guilherme Silva Machado 😁🪓
+## Welcome to Guilherme Silva Machado's profile! 🚀👨‍💻
 
  <div>
    <a href="https://github.com/guilherme-silvam">
@@ -16,7 +16,7 @@
  
 <br>
  
-### Para entrar em contato, segue minhas redes abaixo!
+### To get in touch, here are my social media links below!
  
 <div> 
 
