@@ -1,10 +1,23 @@
 
 ## Welcome to Guilherme Machado's profile! ☕👨‍💻
 
- <div>
-   <a href="https://github.com/guilherme-silvam">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-silvam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silvam&layout=compact&langs_count=6&theme=tokyonight"/>
+ <div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-silvam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silvam&layout=compact&theme=tokyonight&locale=pt-br" />
+
+</div>
+
+<div align="center">
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=guilherme-silvam&theme=tokyonight&locale=pt_BR" />
+
+</div>
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-silvam&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
     
 <div style="display: inline_block"><br>
