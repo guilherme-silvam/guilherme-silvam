@@ -1,12 +1,5 @@
 ## Welcome to Guilherme Machado's profile! ☕👨‍💻
 
-<!-- Se quiser usar sua logo, descomente a linha abaixo e coloque o arquivo em assets/logo.png -->
-<!--
-<p align="center">
-  <img src="assets/logo.png" width="140" alt="Guilherme Machado Logo" />
-</p>
--->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guilherme-silvam&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </p>
@@ -35,8 +28,9 @@
   <img alt="NodeJS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="SQL Server" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  <img alt="Databricks" height="42" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
-  <img alt="Power BI" height="42" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
+  <img alt="Power BI" height="42" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img alt="Databricks" height="42" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" />
+</p>
 </p>
 
 <br>
